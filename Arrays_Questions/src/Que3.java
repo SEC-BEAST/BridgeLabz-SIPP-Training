@@ -2,8 +2,6 @@
 import java.util.Scanner;
 
 public class Que3 {
-    public Que3() {
-    }
 
     public static void main(String[] var0) {
         Scanner var1 = new Scanner(System.in);
